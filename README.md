@@ -19,4 +19,4 @@ Um jogo da velha interativo desenvolvido em JavaScript, HTML e CSS. Desfrute de 
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Nicolassmith7/Projeto-Jogo-da-Velha.git
